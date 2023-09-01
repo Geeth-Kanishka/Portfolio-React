@@ -1,0 +1,33 @@
+.projects-div{
+
+    a{
+        text-decoration: none;
+        border: 1px solid #ffd700;
+        border-radius: 4px;
+        padding: 10px 18px;
+        
+    }
+    
+    /* unvisited link */
+    a:link {
+        color: white;
+      }
+      
+      /* visited link */
+      a:visited {
+        color: white;
+      }
+      
+      /* mouse over link */
+      a:hover {
+        color: #ffd700;
+      }
+      
+      /* selected link */
+      a:active {
+        color: #ffd700;
+      }
+
+
+}
+
