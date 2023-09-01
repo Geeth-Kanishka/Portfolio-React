@@ -8,6 +8,7 @@ const Logo = () => {
       JavaScript<br/>
       Spring-Boot<br/>
       React<br/>
+      ...<br/>
     </div>
   )
 }

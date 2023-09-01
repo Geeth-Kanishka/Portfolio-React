@@ -43,6 +43,15 @@ const Project = () => {
             <br />
             <p>
               <a
+                href="https://github.com/Geeth-Kanishka/Portfolio-React"
+                target="_blank"
+              >
+                Portfolio-React
+                </a>
+            </p>
+            <br />
+            <p>
+              <a
                 href="https://github.com/Geeth-Kanishka/Employee-Management-System_Spring-Boot"
                 target="_blank"
               >
